@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The art of online retail]]></title>
+        <description><![CDATA[The art of online retail]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 18:47:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I was playing with the Samsung VR glasses this weekend and I was reflecting on how much fun it will be to develop a VR store experience. </p>]]></description>
+            <link>undefinedi-was-playing-with-the-samsung-vr-glasses-this-weekend-and-i/index.html</link>
+            <guid isPermaLink="false">b7bcc1c8-48d8-42aa-8950-68f71c61d1da</guid>
+            <pubDate>Mon, 09 May 2016 18:47:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
